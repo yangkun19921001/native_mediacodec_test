@@ -1,0 +1,3 @@
+D:/Android/examples/android-ndk/native-codec/app/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/native-codec-jni.dir
+D:/Android/examples/android-ndk/native-codec/app/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Android/examples/android-ndk/native-codec/app/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir

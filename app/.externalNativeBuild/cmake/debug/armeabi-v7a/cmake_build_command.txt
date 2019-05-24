@@ -1,0 +1,15 @@
+Executable : D:\Android\AndroidDeveloper-sdk\android-sdk-windows\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+-HD:\Downloads\android_space\native-codec\app\src\main\cpp
+-BD:\Downloads\android_space\native-codec\app\.externalNativeBuild\cmake\debug\armeabi-v7a
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_PLATFORM=android-21
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\Downloads\android_space\native-codec\app\build\intermediates\cmake\debug\obj\armeabi-v7a
+-DCMAKE_BUILD_TYPE=Debug
+-DANDROID_NDK=D:\Android\AndroidDeveloper-sdk\android-sdk-windows\ndk-bundle
+-DCMAKE_TOOLCHAIN_FILE=D:\Android\AndroidDeveloper-sdk\android-sdk-windows\ndk-bundle\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=D:\Android\AndroidDeveloper-sdk\android-sdk-windows\cmake\3.6.4111459\bin\ninja.exe
+-GAndroid Gradle - Ninja
+-DANDROID_STL=c++_static
+jvmArgs : 
+

@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Fri May 24 17:38:12 GMT+08:00 2019
+2.base=D\:\\Downloads\\android_space\\native-codec\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+5.file=D\:\\Downloads\\android_space\\native-codec\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0\\lib\\armeabi-v7a\\libnative-codec-jni.so
+5.set=NATIVE_RESOURCE
+3.base=D\:\\Downloads\\android_space\\native-codec\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+6.file=D\:\\Downloads\\android_space\\native-codec\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\mipmap-xxhdpi-v4\\ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=D\:\\Downloads\\android_space\\native-codec\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+7.file=D\:\\Downloads\\android_space\\native-codec\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\mipmap-hdpi-v4\\ic_launcher.png
+7.set=ANDROID_RESOURCE
+count=10
+0.file=D\:\\Downloads\\android_space\\native-codec\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
+5.base=D\:\\Downloads\\android_space\\native-codec\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+8.file=D\:\\Downloads\\android_space\\native-codec\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\resources.arsc
+4.set=ANDROID_RESOURCE
+6.base=D\:\\Downloads\\android_space\\native-codec\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+1.file=D\:\\Downloads\\android_space\\native-codec\\app\\build\\intermediates\\assets\\debug\\clips\\testfile.mp4
+9.set=ANDROID_RESOURCE
+9.file=D\:\\Downloads\\android_space\\native-codec\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\AndroidManifest.xml
+1.set=ASSET
+7.base=D\:\\Downloads\\android_space\\native-codec\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+2.file=D\:\\Downloads\\android_space\\native-codec\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\mipmap-mdpi-v4\\ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=D\:\\Downloads\\android_space\\native-codec\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+8.base=D\:\\Downloads\\android_space\\native-codec\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+3.file=D\:\\Downloads\\android_space\\native-codec\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\main.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\Downloads\\android_space\\native-codec\\app\\build\\intermediates\\assets\\debug
+9.base=D\:\\Downloads\\android_space\\native-codec\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+4.file=D\:\\Downloads\\android_space\\native-codec\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\ic_launcher.png
+8.set=ANDROID_RESOURCE
+0.set=DEX

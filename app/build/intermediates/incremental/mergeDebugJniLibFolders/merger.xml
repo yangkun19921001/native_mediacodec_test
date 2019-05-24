@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Downloads\android_space\native-codec\app\libs"><file name="armeabi-v7a/libhwcodec_ndk.a" path="D:\Downloads\android_space\native-codec\app\libs\armeabi-v7a\libhwcodec_ndk.a"/></source></dataSet><dataSet config="debug"><source path="D:\Downloads\android_space\native-codec\app\src\debug\jniLibs"/></dataSet></merger>
