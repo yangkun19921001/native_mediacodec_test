@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Downloads\\android_space\\native-codec\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Downloads\\android_space\\native-codec\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "16,10,2,6,15,14,9,8,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "625,405,55,227,574,505,350,277,104,173",
+                        "endLines": "19,12,2,6,15,14,9,8,3,4",
+                        "endColumns": "19,19,48,48,50,68,54,72,68,52",
+                        "endOffsets": "735,499,99,271,620,569,400,345,168,221"
+                    },
+                    "to": {
+                        "startLines": "2,6,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,170,269,318,367,418,487,542,615,684",
+                        "endLines": "5,8,9,10,11,12,13,14,15,16",
+                        "endColumns": "19,19,48,48,50,68,54,72,68,52",
+                        "endOffsets": "165,264,313,362,413,482,537,610,679,732"
+                    }
+                }
+            ]
+        }
+    ]
+}
